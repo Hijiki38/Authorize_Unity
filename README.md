@@ -1,2 +1,7 @@
-# Authorize_Unity
-Authorize System between Unity and GAS application.
+# スプレッドシートを使ったUnity向けの認証システム
+Web上でUnityで作ったアプリケーションを使って実験を行うことを考えると，次のような工程になると思います　
+
+・googleフォームとかで個人情報を入力してもらい，実験に同意してもらう
+・Web上でUnityの実験タスクをやってもらい，ログやアンケート結果を収集する
+
+このとき，入力してもらった情報と，実験のログを紐づけるためのシステムです．
